@@ -1,0 +1,2 @@
+# Define o rótulo do serviço AIDL smartlamp
+devtitans.smartlamp.ISmartlamp/default  u:object_r:smartlamp_service:s0
